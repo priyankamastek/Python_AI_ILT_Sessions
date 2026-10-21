@@ -26,8 +26,8 @@
 
 ### Add extension in VSCode 
 
-claude Claude Code for VS Code (Anthropic)
-Trust the folder
-Open Claude code
+- claude Claude Code for VS Code (Anthropic)
+- Trust the folder
+- Open Claude code
 
-5. First Prompt: What files are in this project, and what does pyproject.toml contain?
+### First Prompt: What files are in this project, and what does pyproject.toml contain?
