@@ -1,9 +1,9 @@
-1. Check your prerequisites.
+# Check your prerequisites.
 
-CMD:
-python --version      # should be 3.11 or higher
-git --version
-claude --version
+## CMD:
+* python --version      # should be 3.11 or higher
+* git --version
+* claude --version
 
 
 2. Install uv.
