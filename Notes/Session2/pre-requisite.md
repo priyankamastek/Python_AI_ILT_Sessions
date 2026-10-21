@@ -14,8 +14,8 @@
 
 ### Create the project.
 
-- mkdir cg-listings-uk
-- cd cg-listings-uk
+- mkdir cg-listings-python-app
+- cd cg-listings-python-app
 - git init
 - uv init --package --name cglistings
 - uv add pandas fastapi "uvicorn[standard]" streamlit pydantic
